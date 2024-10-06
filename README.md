@@ -9,7 +9,7 @@ Welcome to **PaySwitch**, a demo project that showcases the power of **Dependenc
 - [Project Structure](#project-structure)
 - [How it Works](#how-it-works)
 - [Setup Instructions](#setup-instructions)
-- [Humorous Bits](#humorous-bits)
+- [Notes from the Developer](#notes-from-the-developer)
 - [Future Enhancements](#future-enhancements)
 
 ## Introduction
@@ -90,7 +90,7 @@ php -S localhost:8000
 
 Now, open your browser and visit `http://localhost:8000` to see the magic happen!
 
-## Humorous Bits
+## Notes from the Developer
 
 - "This project is so flexible, even my yoga instructor is jealous."
 - "Decoupling code one payment method at a time!"
