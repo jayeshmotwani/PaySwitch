@@ -82,7 +82,7 @@ require_once 'src/OrderProcessor.php';
                     <a class="nav-link" href="#creditcard">Credit Card Payment</a>
                 </li> -->
             </ul>
-            <a href="https://github.com/yourusername/yourproject" target="_blank" class="nav-link">
+            <a href="https://github.com/jayeshmotwani/PaySwitch" target="_blank" class="nav-link">
                 <i class="fab fa-github"></i> GitHub
             </a>
         </div>
