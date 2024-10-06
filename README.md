@@ -72,8 +72,8 @@ To run the project locally, follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/payswitch.git
-cd payswitch
+git clone https://github.com/jayeshmotwani/PaySwitch.git
+cd PaySwitch
 ```
 
 ### 2. Install Dependencies
