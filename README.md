@@ -76,19 +76,10 @@ git clone https://github.com/jayeshmotwani/PaySwitch.git
 cd PaySwitch
 ```
 
-### 2. Install Dependencies
-Make sure you have Composer installed, then run:
-```bash
-composer install
-```
-
 ### 3. Run the Project
-Since this is a simple PHP project, you can use PHP's built-in server:
-```bash
-php -S localhost:8000
-```
+Make sure your xampp/wamp is up and running
 
-Now, open your browser and visit `http://localhost:8000` to see the magic happen!
+Now, open your browser and visit `http://localhost/PaySwitch/` to see the magic happen!
 
 ## Notes from the Developer
 
