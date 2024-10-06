@@ -76,9 +76,10 @@ git clone https://github.com/jayeshmotwani/PaySwitch.git
 cd PaySwitch
 ```
 
-### 3. Run the Project
-Make sure your xampp/wamp is up and running
+### 2. Start local Server
+Make sure your xampp/wamp is up and running. Open xampp and click start on Apache. (don't have xampp, install from <a href="https://www.apachefriends.org/download.html" target="_blank">here</a>
 
+### 3. Run the Project
 Now, open your browser and visit `http://localhost/PaySwitch/` to see the magic happen!
 
 ## Notes from the Developer
