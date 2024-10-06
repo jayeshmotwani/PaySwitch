@@ -18,6 +18,7 @@ require_once 'src/OrderProcessor.php';
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <!-- Font Awesome CDN for icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="icon" type="image/png" href="wallet.png">
     <style>
         body {
             background-color: #f8f9fa; /* Light background */
